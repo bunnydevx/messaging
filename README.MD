@@ -140,5 +140,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Aj | greg@faethflex.com
 ## Licenses and Copyright
 
-&copy; 
+&copy; AIO Tech Ltd
 
